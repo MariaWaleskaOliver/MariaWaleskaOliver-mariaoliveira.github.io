@@ -9,7 +9,8 @@ That is my assigment 2 [MyWebSite](https://mariawaleskaoliver.github.io/MariaWal
 
 ### Awesomeflorists
 
-That is my assigment 2 [![image](https://mariawaleskaoliver.github.io/Awesomeflorists/index.html)
+That is my assigment 3 [MyWebSite2](https://mariawaleskaoliver.github.io/Awesomeflorists/index.html) 
+
 
 
 
