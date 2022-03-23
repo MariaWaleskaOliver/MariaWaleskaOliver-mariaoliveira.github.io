@@ -1,10 +1,9 @@
 ## Web Designer Development 
 
-You can use the [editor on GitHub](https://github.com/MariaWaleskaOliver/MariaWaleskaOliver-mariaoliveira.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Programming involves logical reasoning, curiosity, creativity and, above all, the desire to solve problems in the best possible way, with the aim of simplifying and/or improving a variety of tasks in our daily lives. During this first semester we had the pleasure of developing new projects using HTML, CSS and Java Script. In which I have the pleasure of exhibiting in this portfolio.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Web sites 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
