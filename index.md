@@ -11,8 +11,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 [MyWebSite](https://mariawaleskaoliver.github.io/MariaWaleskaOliver-BEAUT--/home.html)
-[mywebsite](https://mariawaleskaoliver.github.io/MariaWaleskaOliver-BEAUT--/image/gisele.png)
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
 ![mywebsite](https://mariawaleskaoliver.github.io/MariaWaleskaOliver-BEAUT--/image/gisele.png)
+![discord](https://discord.com/channels/@me/897613596148785232/956327115857481758)
