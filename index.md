@@ -16,6 +16,9 @@ That is my assigment 3 [MyWebSite2](https://mariawaleskaoliver.github.io/Awesome
 That is my assigment 3 [MyWebSite3](https://mariawaleskaoliver.github.io/java3/) 
 
 ## UX
+![net1](https://user-images.githubusercontent.com/102097554/159825579-52af75a8-d46f-4aed-b834-08ff03020428.png)
+
+
 
 
 
