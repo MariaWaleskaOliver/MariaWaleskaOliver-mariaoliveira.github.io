@@ -11,9 +11,10 @@ That is my assigment 2 [MyWebSite](https://mariawaleskaoliver.github.io/MariaWal
 
 That is my assigment 3 [MyWebSite2](https://mariawaleskaoliver.github.io/Awesomeflorists/index.html) 
 
-<img src="https://https://user-images.githubusercontent.com/102097554/159819967-cba2c456-f25e-4b44-aaa1-2f3bad40a8de.png.type/" width="200" height="200">
 
 
+
+![prot4](https://user-images.githubusercontent.com/102097554/159820838-d73f131d-7338-42f1-80e2-a07acb3199a2.png)
 
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MariaWaleskaOliver/MariaWaleskaOliver-mariaoliveira.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
