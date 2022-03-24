@@ -36,7 +36,7 @@ That was one of the prototypes I made with my group for a website.
 
 
 ## C#
-During  my program I worked with console application and also with Windows forms applications, i created functionais programs to collect and validat data, that is one of assignments
+During my program, I worked with console applications and Windows forms applications. I created functional programs to collect and validate data, that is one of the assignments
 
 ![netForm](https://user-images.githubusercontent.com/102097554/159829133-9aede008-40f1-4230-a14a-0f4ffcefae91.png)
 
