@@ -41,6 +41,19 @@ During my program, I worked with console applications and Windows forms applicat
 ![netForm](https://user-images.githubusercontent.com/102097554/159829133-9aede008-40f1-4230-a14a-0f4ffcefae91.png)
 
 
+## Skills 
+
+Knowledgeable in terms involving
+- C# Application development
+- Javascript Server Instantiation and development
+- Client and Server side validation
+- Appealing in app GUI
+- Collaborative efforts
+- Wearing a smile to pay positivity forward
+- Data modelling and basic structuring
+
+
+
 ### Contact
 
 If you would like to contact me that is my email : mmarinhodeolive1749@conestogac.on.ca 
