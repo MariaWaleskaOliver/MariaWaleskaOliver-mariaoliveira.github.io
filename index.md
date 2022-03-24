@@ -4,10 +4,10 @@ Programming involves logical reasoning, curiosity, creativity and, above all, th
 
 ## HTML and CSS
 
-### BEAUTÉ
+# BEAUTÉ
 I made a static website for a jewelry called Beuté using html and css. That was one of my most inportant and pleasurable assigments to me.Please check it out!  [MyWebSitejewelry](https://mariawaleskaoliver.github.io/MariaWaleskaOliver-BEAUT--/home.html)
 
-### Awesomeflorists
+# Awesomeflorists
 
 I made a static website for a flower shop for as an activict.Please check it out!  [MyWebSiteAwesomeflorists](https://mariawaleskaoliver.github.io/Awesomeflorists/index.html) 
 
@@ -27,10 +27,11 @@ I also I had the opportunity to work in a group and develop some:
 -Entities
 -Portotypes 
 
+## C#
+During  my program I worked with console application and also with Windows forms applications, i created functionais programs to collect and validat data, that is one of assignments
 
 
-
-
+![netForm](https://user-images.githubusercontent.com/102097554/159829133-9aede008-40f1-4230-a14a-0f4ffcefae91.png)
 
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MariaWaleskaOliver/MariaWaleskaOliver-mariaoliveira.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
