@@ -1,8 +1,8 @@
 ## Web Designer Development 
 
-Programming involves logical reasoning, curiosity, creativity and, above all, the desire to solve problems in the best possible way, with the aim of simplifying and/or improving a variety of tasks in our daily lives. During this first semester we had the pleasure of developing new projects using HTML, CSS and Java Script. In which I have the pleasure of exhibiting in this portfolio.
+Programming involves logical reasoning, curiosity, creativity and, above all, the desire to solve problems in the best possible way, with the aim of simplifying and/or improving a variety of tasks in our daily lives. During this first semester we had the pleasure of developing new projects using HTML, CSS, Java Script, C# and UX. In which I have the pleasure of exhibiting in this portfolio.
 
-
+## HTML and CSS
 
 ### BEAUTÉ
 That is my assigment 2 [MyWebSite](https://mariawaleskaoliver.github.io/MariaWaleskaOliver-BEAUT--/home.html)
@@ -11,10 +11,12 @@ That is my assigment 2 [MyWebSite](https://mariawaleskaoliver.github.io/MariaWal
 
 That is my assigment 3 [MyWebSite2](https://mariawaleskaoliver.github.io/Awesomeflorists/index.html) 
 
+## Java Script 
 
+That is my assigment 3 [MyWebSite3](https://mariawaleskaoliver.github.io/java3/) 
 
+## UX
 
-![prot4](https://user-images.githubusercontent.com/102097554/159820838-d73f131d-7338-42f1-80e2-a07acb3199a2.png)
 
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MariaWaleskaOliver/MariaWaleskaOliver-mariaoliveira.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
