@@ -22,16 +22,18 @@ In my first semester I developed a Mystery game prototype developed using Just I
 
 I also I had the opportunity to work in a group and develop some:
 
--Personas 
--Uses Cases
--Entities
--Portotypes 
+- Personas 
+- Uses Cases
+- Entities
+- Portotypes
+
+That was one of the prototypes I made with my gourp for a website.
+
+![netForm](https://user-images.githubusercontent.com/102097554/159829133-9aede008-40f1-4230-a14a-0f4ffcefae91.png)
 
 ## C#
 During  my program I worked with console application and also with Windows forms applications, i created functionais programs to collect and validat data, that is one of assignments
 
-
-![netForm](https://user-images.githubusercontent.com/102097554/159829133-9aede008-40f1-4230-a14a-0f4ffcefae91.png)
 
 
 ### Contact
