@@ -29,17 +29,20 @@ I also I had the opportunity to work in a group and develop some:
 
 That was one of the prototypes I made with my gourp for a website.
 
-![netForm](https://user-images.githubusercontent.com/102097554/159829133-9aede008-40f1-4230-a14a-0f4ffcefae91.png)
+![APRESENTATION PROT](https://user-images.githubusercontent.com/102097554/159919189-66d648bb-d5f6-479d-8eb9-6bef0205114f.png)
+
+
 
 ## C#
 During  my program I worked with console application and also with Windows forms applications, i created functionais programs to collect and validat data, that is one of assignments
 
+![netForm](https://user-images.githubusercontent.com/102097554/159829133-9aede008-40f1-4230-a14a-0f4ffcefae91.png)
 
 
 ### Contact
 
 If you would like to contact me that is my email : mmarinhodeolive1749@conestogac.on.ca 
-![APRESENTATION PROT](https://user-images.githubusercontent.com/102097554/159919189-66d648bb-d5f6-479d-8eb9-6bef0205114f.png)
+
 
 
 
