@@ -13,7 +13,7 @@ I made a static website for a flower shop for as an activict.Please check it out
 
 ## Java Script 
 
-I made a dynamic website to collect some data from the usaers using JavaScript. Please check it out! [MyWebSite3](https://mariawaleskaoliver.github.io/java3/) 
+I made a dynamic website to collect some data from the user and mad\ke some calculations using JavaScript. Please check it out! [MyWebSite3](https://mariawaleskaoliver.github.io/java3/) 
 
 ## UX
 In my first semester I developed a Mystery game prototype developed using Just In mind app.
@@ -34,13 +34,9 @@ During  my program I worked with console application and also with Windows forms
 ![netForm](https://user-images.githubusercontent.com/102097554/159829133-9aede008-40f1-4230-a14a-0f4ffcefae91.png)
 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MariaWaleskaOliver/MariaWaleskaOliver-mariaoliveira.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Contact
 
-### Support or Contact
-
-
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+If you would like to contact me that is my email : mmarinhodeolive1749@conestogac.on.ca 
 
 
 
