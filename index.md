@@ -1,4 +1,4 @@
-# Computer Programer 
+# Computer Programmer 
 
 Programming involves logical reasoning, curiosity, creativity and, above all, the desire to solve problems in the best possible way, with the aim of simplifying and/or improving a variety of tasks in our daily lives. During this first semester we had the pleasure of developing new projects using HTML, CSS, Java Script, C# and UX. In which I have the pleasure of exhibiting in this portfolio.
 
