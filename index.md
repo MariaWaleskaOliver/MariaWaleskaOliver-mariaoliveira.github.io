@@ -4,10 +4,10 @@ Programming involves logical reasoning, curiosity, creativity and, above all, th
 
 ## HTML and CSS
 
-# BEAUTÉ
+### BEAUTÉ
 I made a static website for a jewelry called Beuté using html and css. That was one of my most inportant and pleasurable assigments to me.Please check it out!  [MyWebSitejewelry](https://mariawaleskaoliver.github.io/MariaWaleskaOliver-BEAUT--/home.html)
 
-# Awesomeflorists
+### Awesomeflorists
 
 I made a static website for a flower shop for as an activict.Please check it out!  [MyWebSiteAwesomeflorists](https://mariawaleskaoliver.github.io/Awesomeflorists/index.html) 
 
